@@ -1,8 +1,7 @@
 -nostartfiles
 --entry=Reset_Handler
 -ggdb3
--T
-"C:/Users/140597/workspaceS32DS.3.6.0/Wdog_Ip_Example_S32K116/Project_Settings/Linker_Files/linker_flash_s32k116.ld"
+-T ,
 -Wl,-Map,"Wdog_Ip_Example_S32K116.map"
 -mfpu=auto
 -n

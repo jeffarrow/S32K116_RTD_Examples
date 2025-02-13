@@ -5,13 +5,14 @@
 -DS32K116
 -DCPU_CORTEX_M0P
 -I../RTD/include
--IC:/Users/140597/workspaceS32DS.3.6.0/Wdog_Ip_Example_S32K116/generate/include
--IC:/Users/140597/workspaceS32DS.3.6.0/Wdog_Ip_Example_S32K116/RTD/include
+-IC:/Users/140597/OneDrive
+- Arrow Electronics Inc/Documents/Customers/S32K116_RTD_Examples/Wdog_Ip_Example_S32K116/generate/include
+-IC:/Users/140597/OneDrive
+- Arrow Electronics Inc/Documents/Customers/S32K116_RTD_Examples/Wdog_Ip_Example_S32K116/RTD/include
 -I"C:/NXP/S32DS.3.6.0/S32DS/software/PlatformSDK_S32K1_S32M24/RTD/BaseNXP_TS_T40D2M20I0R0/header"
 -I"C:/NXP/S32DS.3.6.0/S32DS/software/PlatformSDK_S32K1_S32M24/RTD/BaseNXP_TS_T40D2M20I0R0/include"
 -I"C:/NXP/S32DS.3.6.0/S32DS/software/PlatformSDK_S32K1_S32M24/RTD/Platform_TS_T40D2M20I0R0/include"
--I"C:/NXP/S32DS.3.6.0/S32DS/software/PlatformSDK_S32K1_S32M24/RTD/Platform_TS_T40D2M20I0R0/startup/include"
--I"C:/Users/140597/workspaceS32DS.3.6.0/Wdog_Ip_Example_S32K116/board"
+-I"C:/NXP/S32DS.3.6.0/S32DS/software/PlatformSDK_S32K1_S32M24/RTD/Platform_TS_T40D2M20I0R0/startup/include" ,
 -Os
 -funsigned-char
 -fomit-frame-pointer
