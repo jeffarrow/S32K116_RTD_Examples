@@ -1,0 +1,13 @@
+-c
+-I../RTD/include
+-I"C:/Users/140597/workspaceS32DS.3.6.0/I2c_Ip_Example_S32K116/board"
+-x assembler-with-cpp
+-g3
+-mfpu=auto
+-mcpu=cortex-m0plus
+-mthumb
+-mlittle-endian
+-mfloat-abi=soft
+-specs=nano.specs
+-specs=nosys.specs
+--sysroot=""
